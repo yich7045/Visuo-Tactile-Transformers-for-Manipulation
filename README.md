@@ -1,5 +1,5 @@
 # VTT
-The major idea of VTT is in slac.network.encoder.VTT. Code needs to be further cleaned up
+For CoRL 2022 Paper: Visuo-Tactile Transformers for Manipulation
 
 Requirements:
 torch==1.9.0
