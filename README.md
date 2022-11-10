@@ -1,7 +1,7 @@
 # VTT
 For CoRL 2022 Paper: Visuo-Tactile Transformers for Manipulation
 
-Requirements:__
+Requirements:<br />
 torch==1.9.0__
 tqdm==4.48.2__
 pybullet==3.1.8__
