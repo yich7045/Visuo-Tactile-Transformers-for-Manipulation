@@ -2,35 +2,35 @@
 For CoRL 2022 Paper: Visuo-Tactile Transformers for Manipulation
 
 Requirements:<br />
-torch==1.9.0__
-tqdm==4.48.2__
-pybullet==3.1.8__
-gym==0.17.2__
-matplotlib==3.4.3__
-numpy==1.21.2__
-pandas==1.1.2__
+torch==1.9.0<br />
+tqdm==4.48.2<br />
+pybullet==3.1.8<br />
+gym==0.17.2<br />
+matplotlib==3.4.3<br />
+numpy==1.21.2<br />
+pandas==1.1.2<br />
 
-Minitouch Installation:
-cd Minitouch
-pip install -e .
+Minitouch Installation:<br />
+cd Minitouch<br />
+pip install -e .<br />
 
-Available Tasks: Visualization with Debug mode, e.g., "PushingDebug-v0"
-Pushing-v0
-Opening-v0
-Picking-v0
-Inserting-v0
+Available Tasks: Visualization with Debug mode, e.g., "PushingDebug-v0"<br />
+Pushing-v0<br />
+Opening-v0<br />
+Picking-v0<br />
+Inserting-v0<br />
 
 
-Example of Running Code:
-VTT:
-python train.py --encoder="VTT" --seed=0 --task_name="Pushing-v0"
-Baselines:
-python train.py --encoder="POE" --seed=1 --task_name="PickingDebug-v0"
-python train.py --encoder="Concatenation" --seed=1 --task_name="Opening-v0"
+Example of Running Code:<br />
+VTT:<br />
+python train.py --encoder="VTT" --seed=0 --task_name="Pushing-v0"<br />
+Baselines:<br />
+python train.py --encoder="POE" --seed=1 --task_name="PickingDebug-v0"<br />
+python train.py --encoder="Concatenation" --seed=1 --task_name="Opening-v0"<br />
 
-# Read Results with read_pickle.py
+# Read Results with read_pickle.py<br />
 
-# Credits
+# Credits<br />
 The code is based on SLAC.pytorch version and Minitouch but heavily modified.
 Orignal Codes:
 
