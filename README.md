@@ -1,5 +1,6 @@
-# VTT
+# Visuo-Tactile Transformers for Manipulation
 For CoRL 2022 Paper: Visuo-Tactile Transformers for Manipulation
+[VTT](https://arxiv.org/abs/2210.00121)
 
 Requirements:<br />
 torch==1.9.0<br />
