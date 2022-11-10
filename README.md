@@ -1,14 +1,14 @@
 # VTT
 For CoRL 2022 Paper: Visuo-Tactile Transformers for Manipulation
 
-Requirements:
-torch==1.9.0
-tqdm==4.48.2
-pybullet==3.1.8
-gym==0.17.2
-matplotlib==3.4.3
-numpy==1.21.2
-pandas==1.1.2
+Requirements:__
+torch==1.9.0__
+tqdm==4.48.2__
+pybullet==3.1.8__
+gym==0.17.2__
+matplotlib==3.4.3__
+numpy==1.21.2__
+pandas==1.1.2__
 
 Minitouch Installation:
 cd Minitouch
