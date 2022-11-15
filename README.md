@@ -28,7 +28,7 @@ Baselines:<br />
 python train.py --encoder="POE" --seed=1 --task_name="PickingDebug-v0"<br />
 python train.py --encoder="Concatenation" --seed=1 --task_name="Opening-v0"<br />
 
-# Read Results with read_pickle.py<br />
+Read Results with read_pickle.py<br />
 
 # Credits<br />
 The code is based on SLAC.pytorch version and Minitouch but heavily modified.
